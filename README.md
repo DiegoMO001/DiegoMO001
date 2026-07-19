@@ -16,11 +16,6 @@ Sou estudante de **Ciência da Computação** na **UTFPR – Campus Ponta Grossa
 * SQL
 * Power BI
 
-**Ferramentas**
-
-* Git
-* GitHub
-
 ## 🚀 Atualmente
 
 * 📚 Estudando Ciência da Computação na UTFPR
