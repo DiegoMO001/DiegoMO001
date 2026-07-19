@@ -2,8 +2,6 @@
 
 Sou estudante de **Ciência da Computação** na **UTFPR – Campus Ponta Grossa (PR)**, com interesse em **Ciência de Dados**, programação e resolução de problemas.
 
-Atualmente busco fortalecer minha base em algoritmos, estruturas de dados, bancos de dados e desenvolvimento de software, aplicando esses conhecimentos em projetos práticos.
-
 ## 💻 Tecnologias
 
 **Linguagens**
@@ -12,7 +10,6 @@ Atualmente busco fortalecer minha base em algoritmos, estruturas de dados, banco
 * C++
 * Java
 * Python
-* PHP
 
 **Banco de Dados e Análise**
 
